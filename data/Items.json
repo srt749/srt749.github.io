@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"animationId":1,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":244,"itypeId":3,"name":"Camera","note":"","occasion":3,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
-{"id":2,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":-1,"formula":"999999999","type":1,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":177,"itypeId":1,"name":"Bug Spray","note":"","occasion":1,"price":100,"repeats":1,"scope":2,"speed":0,"successRate":100,"tpGain":0},
-{"id":3,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":186,"itypeId":4,"name":"Badge","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
-]
