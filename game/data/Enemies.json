@@ -1,3 +1,7 @@
 [
-null
+null,
+{"id":1,"actions":[],"battlerHue":0,"battlerName":"ant","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":9999,"traits":[],"gold":0,"name":"Ant","note":"","params":[100,0,10,10,10,10,10,10]},
+{"id":2,"actions":[],"battlerHue":0,"battlerName":"ant_dead","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":9999,"traits":[],"gold":0,"name":"Dead Ant","note":"","params":[100,0,10,10,10,10,10,10]},
+{"id":3,"actions":[],"battlerHue":0,"battlerName":"ant_many","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"So Many Ants","note":"","params":[100,0,10,10,10,10,10,10]},
+{"id":4,"actions":[],"battlerHue":198,"battlerName":"CHECKLIST","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Evaluation Checklist","note":"","params":[1,0,1,1,1,1,1,1]}
 ]
