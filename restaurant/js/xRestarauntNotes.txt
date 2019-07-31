@@ -1,4 +1,5 @@
-Restaraunt Notes
+https://docs.google.com/spreadsheets/d/1-Oa0cRGpjC8L5JO8vdMwOaYMKO75dtfKDOetnvh7OHs/edit#gid=0
+
 
 Game flow
 	- introduce yourself
