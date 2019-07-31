@@ -1886,10 +1886,10 @@ Window_ItemCategory.prototype.update = function() {
 };
 
 Window_ItemCategory.prototype.makeCommandList = function() {
-    this.addCommand(TextManager.keyItem, 'keyItem');
     this.addCommand(TextManager.item,    'item');
     // this.addCommand(TextManager.weapon,  'weapon');
     // this.addCommand(TextManager.armor,   'armor');
+    // this.addCommand(TextManager.keyItem, 'keyItem');
 };
 
 Window_ItemCategory.prototype.setItemWindow = function(itemWindow) {
