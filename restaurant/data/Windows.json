@@ -1,1 +1,1 @@
-{"Scene_Title":{"Window_TitleCommand":{"x":288,"y":384,"opacity":"255","width":"240","rows":"3","cols":"1","lineHeight":"36","align":"center"}}}
+{"Scene_Title":{"Window_TitleCommand":{"x":288,"y":384,"opacity":"255","width":"240","rows":"3","cols":"1","lineHeight":"36","align":"center"}},"Scene_Menu":{"Window_MenuCommand":{"x":0,"y":0,"opacity":"999","width":"236","rows":"1","cols":"4","lineHeight":"36","align":"left"},"Window_CommandLabel":{"x":0,"y":68}}}
