@@ -1,7 +1,7 @@
 [
 null,
 null,
-{"id":2,"expanded":false,"name":"Desk","order":5,"parentId":0,"scrollX":421.0909090909091,"scrollY":498},
+{"id":2,"expanded":false,"name":"Desk","order":5,"parentId":0,"scrollX":451.2,"scrollY":547.8},
 null,
 {"id":4,"expanded":true,"name":"Kitchen","order":3,"parentId":0,"scrollX":418,"scrollY":448.5},
 null,
@@ -11,5 +11,5 @@ null,
 null,
 null,
 null,
-{"id":12,"expanded":true,"name":"Evaluation 1","order":4,"parentId":0,"scrollX":421,"scrollY":448.5}
+{"id":12,"expanded":true,"name":"Evaluation 1","order":4,"parentId":0,"scrollX":421.5,"scrollY":448.5}
 ]
